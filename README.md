@@ -40,9 +40,7 @@ Os dados são salvos em alunos.txt no formato:
 
 Exemplo:
   2024001; Danilo Pereira
-  
   2024002; Raimundo Amaral
-  
   2024003; Lucas Antonelli
 
 ---
